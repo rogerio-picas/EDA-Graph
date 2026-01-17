@@ -30,6 +30,6 @@ Developed as part of the **Advanced Data Structures** curriculum in the **Comput
 
 ---
 ### How to Compile & Run
-```bash
-gcc antenna_network.c -o network_sim
-./network_sim
+1. Clone the repository: `git clone https://github.com/rogerio-picas/EDA-Graph`
+2. Compile the project: `gcc -o antenna_graph main.c` (adjust filename if necessary)
+3. Run: `./antenna_graph`
