@@ -27,3 +27,9 @@ Developed as part of the **Advanced Data Structures** curriculum in the **Comput
 1. **Complex Data Structures**: Designing graphs and integrating them with matrices.
 2. **Search Algorithms**: Implementing and comparing BFT vs DFS performance.
 3. **C Programming**: Advanced pointer manipulation and memory management.
+
+---
+### How to Compile & Run
+```bash
+gcc antenna_network.c -o network_sim
+./network_sim
